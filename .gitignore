@@ -1,0 +1,18 @@
+# 1. Ignore Database (Crucial!)
+*.db
+database.db
+
+# 2. Ignore Python compilation files
+__pycache__/
+*.pyc
+
+# 3. Ignore Virtual Environment (if you have one)
+venv/
+env/
+
+# 4. Ignore Uploaded Images (Keep the folder, ignore the files)
+static/uploads/*
+!static/uploads/.gitkeep
+
+# 5. Ignore specific system files
+.DS_Store
