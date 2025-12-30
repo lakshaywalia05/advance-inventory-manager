@@ -61,7 +61,4 @@ A comprehensive **Offline Point of Sale (POS) and Inventory Management System** 
 * Python 3.x installed
 * Git installed
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/advance-inventory-manager.git](https://github.com/YOUR_USERNAME/advance-inventory-manager.git)
-cd advance-inventory-manager
+
